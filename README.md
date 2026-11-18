@@ -10,7 +10,7 @@ Cuido de tudo: layout, back-end, banco e deploy.
 
 ### NEXORA Gestão
 
-<img src="https://raw.githubusercontent.com/GustavoPires275/nexora-gestao/main/docs/login.jpg" width="640" alt="Tela de login do NEXORA">
+<img src="https://raw.githubusercontent.com/GustavoPires275/nexora-gestao/main/docs/painel.jpg" width="640" alt="Painel master do NEXORA">
 
 Sistema de gestão que atende várias empresas na mesma instalação. Tem PDV, estoque, caixa, compras, relatórios e um módulo de restaurante com comanda e QR Code na mesa, com atualização em tempo real por WebSocket.
 
