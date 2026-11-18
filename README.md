@@ -1,6 +1,6 @@
-## Oi, eu sou o Gustavo
+# Gustavo Pires
 
-Desenvolvedor full stack em Barreirinhas (MA), a porta de entrada dos Lençóis Maranhenses.
+**Desenvolvedor full stack** · Barreirinhas, MA, a porta de entrada dos Lençóis Maranhenses
 
 Comecei a programar resolvendo problema do comércio aqui da cidade, e sigo fazendo isso. Tem gente usando o que eu construí agora mesmo:
 
