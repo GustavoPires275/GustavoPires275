@@ -1,10 +1,14 @@
 ## Oi, eu sou o Gustavo
 
-Sou desenvolvedor full stack em Barreirinhas, no Maranhão, a cidade dos Lençóis Maranhenses.
+Desenvolvedor full stack em Barreirinhas (MA), a porta de entrada dos Lençóis Maranhenses.
 
-Aprendi a programar fazendo sistema para o comércio daqui. A barbearia que marcava horário por mensagem hoje tem agenda online e um painel com financeiro e comissão da equipe. A pizzaria trocou o cardápio de papel por um site onde o cliente monta o pedido e manda pronto no WhatsApp. Lojas da região controlam estoque e fecham o caixa num PDV que eu escrevi em Python.
+Comecei a programar resolvendo problema do comércio aqui da cidade, e sigo fazendo isso. Tem gente usando o que eu construí agora mesmo:
 
-Cuido de tudo: layout, back-end, banco e deploy.
+- a barbearia agenda cliente online e acompanha financeiro e comissão da equipe pelo painel que eu fiz;
+- a pizzaria recebe o pedido montado direto no WhatsApp, pelo cardápio digital;
+- lojas da região controlam estoque e fecham o caixa no NEXORA, o PDV que escrevi em Python.
+
+Pego o projeto inteiro: converso com o dono, desenho a tela, escrevo o back-end, subo para produção e sigo ajustando depois.
 
 ## Projetos
 
