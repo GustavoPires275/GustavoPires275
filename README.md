@@ -60,4 +60,4 @@ React, Next.js, TypeScript e Tailwind no front. Node.js, Python e FastAPI no bac
 
 Estou fazendo o EXPLORE, um app de turismo do Maranhão em React Native. Também procuro vaga de dev full stack, remota ou em São Paulo. Se tiver uma, me chama no [LinkedIn](https://www.linkedin.com/in/gustavopirescarneirodev).
 
-[LinkedIn](https://www.linkedin.com/in/gustavopirescarneirodev) · [NEXORA](https://nexoraenterprise0.netlify.app/)
+[Portfólio](https://portifoliogustavopires.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/gustavopirescarneirodev) · [NEXORA](https://nexoraenterprise0.netlify.app/)
