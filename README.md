@@ -18,7 +18,7 @@ Python, FastAPI, SQLite · [código](https://github.com/GustavoPires275/nexora-g
 
 ### Manuhbarbers
 
-<img src="https://raw.githubusercontent.com/GustavoPires275/Sistema-de-agendamento-Administrativo-/main/docs/desktop.jpg" width="640" alt="Site da Manuhbarbers">
+<img src="https://raw.githubusercontent.com/GustavoPires275/Sistema-de-agendamento-Administrativo-/main/docs/painel.jpg" width="640" alt="Painel administrativo da Manuhbarbers">
 
 Agendamento online e painel da barbearia: agenda, equipe, comissão, financeiro, estoque, cupons e clube de assinatura.
 
