@@ -1,64 +1,57 @@
-<h1 align="center">Gustavo Pires</h1>
-<p align="center"><b>Desenvolvedor Full Stack</b> · Sistemas web, apps e automações para negócios reais</p>
-<p align="center">📍 Barreirinhas, Maranhão · porta de entrada dos Lençóis Maranhenses</p>
+## Oi, eu sou o Gustavo
 
-<p align="center">
-  <a href="https://nexoraenterprise0.netlify.app/"><img src="https://img.shields.io/badge/NEXORA-111111?style=for-the-badge&logo=netlify&logoColor=white" alt="NEXORA"></a>
-</p>
+Sou desenvolvedor full stack em Barreirinhas, no Maranhão, a cidade dos Lençóis Maranhenses.
 
----
+Aprendi a programar fazendo sistema para o comércio daqui. A barbearia que marcava horário por mensagem hoje tem agenda online e um painel com financeiro e comissão da equipe. A pizzaria trocou o cardápio de papel por um site onde o cliente monta o pedido e manda pronto no WhatsApp. Lojas da região controlam estoque e fecham o caixa num PDV que eu escrevi em Python.
 
-### 👋 Sobre mim
+Cuido de tudo: layout, back-end, banco e deploy.
 
-Eu transformo processos manuais em sistemas que funcionam sozinhos.
+## Projetos
 
-Na minha cidade, muito negócio ainda roda no caderno, na calculadora e no WhatsApp. Foi resolvendo esses problemas que eu aprendi a programar. Hoje tem barbearia agendando cliente pelo sistema que eu fiz, loja fechando o caixa no PDV que eu programei e agência de turismo recebendo cliente do Brasil inteiro pelo site que eu coloquei no ar.
+### NEXORA Gestão
 
-Faço o caminho inteiro: **conversa com o cliente → interface → back-end → banco → deploy → suporte.**
+Sistema de gestão que atende várias empresas na mesma instalação. Tem PDV, estoque, caixa, compras, relatórios e um módulo de restaurante com comanda e QR Code na mesa, com atualização em tempo real por WebSocket.
 
-### 🚀 Projetos em produção
+Python, FastAPI, SQLite · [código](https://github.com/GustavoPires275/nexora-gestao)
 
-| Projeto | O que resolve | Stack |
-|---|---|---|
-| [**NEXORA Gestão**](https://github.com/GustavoPires275/nexora-gestao) | Sistema multiempresa com PDV, estoque, caixa e módulo restaurante com QR Code na mesa | Python · FastAPI · SQLite · WebSockets |
-| [**Manuhbarbers**](https://github.com/GustavoPires275/Sistema-de-agendamento-Administrativo-) · [ao vivo](https://emanuelbarbers.netlify.app/) | Agendamento online e painel admin para barbearia: agenda, equipe, financeiro, estoque e clube | React · TypeScript · Supabase |
-| [**Canto da Pizza**](https://github.com/GustavoPires275/Web-site-Canto-da-Pizza) · [ao vivo](https://cantodapizza.netlify.app/) | Cardápio digital com carrinho e pedido direto no WhatsApp | JavaScript · Performance · Playwright |
-| [**Explore Tours**](https://github.com/GustavoPires275/site-gabriel) · [ao vivo](https://exploretuors.netlify.app/) | Site de transfer com reserva e preço calculado na hora | JavaScript · SEO técnico |
-| [**Explore Tours (React)**](https://github.com/GustavoPires275/explore-tours-transfer) | Versão componentizada do site de transfer | React 19 · TanStack Start · Tailwind · shadcn/ui |
-| [**Nutrologia**](https://github.com/GustavoPires275/nutrologia-site) | Site médico premium com hero 3D e conteúdo interativo | JavaScript · three.js |
+### Manuhbarbers
 
-### 🛠️ Stack
+<img src="https://raw.githubusercontent.com/GustavoPires275/Sistema-de-agendamento-Administrativo-/main/docs/desktop.jpg" width="640" alt="Site da Manuhbarbers">
 
-**Front-end**
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+Agendamento online e painel da barbearia: agenda, equipe, comissão, financeiro, estoque, cupons e clube de assinatura.
 
-**Back-end e dados**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+React, TypeScript, Supabase · [site](https://emanuelbarbers.netlify.app/) · [código](https://github.com/GustavoPires275/Sistema-de-agendamento-Administrativo-)
 
-**Mobile, deploy e ferramentas**
-<br>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+### Canto da Pizza
 
-### 🔭 Agora
+<img src="https://raw.githubusercontent.com/GustavoPires275/Web-site-Canto-da-Pizza/main/docs/desktop.jpg" width="640" alt="Cardápio do Canto da Pizza">
 
-- Construindo o **EXPLORE**, um app de turismo para o Maranhão em React Native/Expo
-- Aberto a vagas de **Desenvolvedor Full Stack**, remoto ou em São Paulo
+Cardápio da pizzaria com busca, favoritos, carrinho e pedido no WhatsApp. Cortei a página de 6.400 para 1.400 elementos para ela abrir rápido no 4G daqui.
 
-<p align="center"><i>Começo pelo problema, não pela tecnologia.</i></p>
+JavaScript · [site](https://cantodapizza.netlify.app/) · [código](https://github.com/GustavoPires275/Web-site-Canto-da-Pizza)
+
+### Explore Tours
+
+<img src="https://raw.githubusercontent.com/GustavoPires275/site-gabriel/main/docs/desktop.jpg" width="640" alt="Site da Explore Tours">
+
+Site de transfer que liga São Luís a Barreirinhas e Jericoacoara. O turista escolhe a rota e o carro e já vê o preço, com a taxa noturna incluída quando o horário pede.
+
+JavaScript · [site](https://exploretuors.netlify.app/) · [código](https://github.com/GustavoPires275/site-gabriel) · [versão em React](https://github.com/GustavoPires275/explore-tours-transfer)
+
+### Nutrologia
+
+<img src="https://raw.githubusercontent.com/GustavoPires275/nutrologia-site/main/docs/desktop.jpg" width="640" alt="Site de nutrologia">
+
+Site para um médico nutrólogo. O cenário 3D do topo, feito com three.js, muda de luz conforme a hora em que a pessoa abre a página.
+
+JavaScript, three.js · [código](https://github.com/GustavoPires275/nutrologia-site)
+
+## Ferramentas
+
+React, Next.js, TypeScript e Tailwind no front. Node.js, Python e FastAPI no back. Supabase e SQLite para dados, React Native e Expo para mobile, Netlify e Render para publicar.
+
+## Agora
+
+Estou fazendo o EXPLORE, um app de turismo do Maranhão em React Native. Também procuro vaga de dev full stack, remota ou em São Paulo.
+
+[NEXORA](https://nexoraenterprise0.netlify.app/)
